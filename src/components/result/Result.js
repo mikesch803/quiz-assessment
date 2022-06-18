@@ -22,7 +22,7 @@ export function Result({ quizResult }) {
   return (
     <div>
       <h2 className="flex">
-        Results<span className="btn-quiz btn-back">back to home</span>
+        Results
       </h2>
       {quizResult.map((item, index) => (
         <li key={index}>
