@@ -1,0 +1,25 @@
+.btn-back {
+    margin-left: auto;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.each-que {
+    max-width: 25rem;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 0.5rem;
+    color: white;
+}
+
+.each-que > p {
+    font-size: 1.2rem;
+}
+
+.total-score {
+    font-size: 2rem;
+}
